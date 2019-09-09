@@ -24,6 +24,11 @@ public class Runner {
     RNG rng = new RNG(1000000);
     int num = rng.generate();
     logger.info("Generated: " + num);
-    System.out.println(num);
+//    System.out.println(num);
+    returnNum(num);
+  }
+
+  public static int returnNum(int num) {
+    return num;
   }
 }
