@@ -6,7 +6,7 @@ In order to run each instance of our project, please refer to the individual REA
 
 #### Java 
 - [Java VM Docs](/Java_VM/README.md)
-- [Java  App Docs](/JavaAppEngine/README.md)
+- [Java  App Docs](/Java_AppEngine/README.md)
 
 #### Python 
 - [Python Docs](/Python_VM/README.md)
