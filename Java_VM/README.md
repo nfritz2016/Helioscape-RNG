@@ -52,3 +52,5 @@
 - Download our `.war` file from our github.
 - Place the `.war` in `/opt/tomcat/webapps` and restart the service by using `sudo systemctl restart tomcat`.
 - You can now visit the page by visiting `http://<EXTERNAL_IP>:8080/<NAME_OF_.WAR>`.
+
+*Ensure that your firewall allows ingress connection to port 8080 at priority 0*
