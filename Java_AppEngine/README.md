@@ -15,4 +15,6 @@ NOTE: "myapp" and "mycompany" are subject to change based on your version of the
 Once this is done, the deployment of the app should be running.
 Restarting of the app engine may be neccessary.
 
+If Errors occur consult the pom.xml file or associated README.md's 
+
 
