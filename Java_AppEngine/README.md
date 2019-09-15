@@ -1,4 +1,5 @@
-Once app engine is created, follow the instructions in the link below to instal maven framework.
+# Java AppEngine Instructions
+Once app engine is created, follow the instructions in the link below to install maven framework.
 
 During these instructions, follow the appengine-skeleton-archetype implementation of the installation.
 Ensure you have jdk installed.
