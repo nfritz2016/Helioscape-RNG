@@ -23,3 +23,6 @@ https://github.com/nfritz2016/Helioscape-RNG
 ### Python
 - AppEngine: https://eastern-moment-252617.appspot.com/
 - VM: http://146.148.67.80:5000/
+
+## Testing
+Testing of the randomness of our numbers can be found in the Test_File directory.
