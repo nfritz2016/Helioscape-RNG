@@ -14,7 +14,7 @@ if __name__ == '__main__':
 @app.route('/json')
 def render_json():
     random_number = rng.raj()[1][0]
-    number_json = {"random_number" : random_number}
+    number_json = [{"random_number" : random_number}]
     return jsonify(number_json)
     # return render_template('home.html', number=random_number)
 
